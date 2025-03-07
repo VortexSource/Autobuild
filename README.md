@@ -1,4 +1,4 @@
-Vortex Auto Build
+# Vortex Auto Build
 
 https://discord.gg/cTRZBY8zjY
 
