@@ -1,3 +1,10 @@
+do
+	local StartUi = game:GetService("PlayerGui"):FindFirstChild("StartUI")
+	if StartUi then
+		StartUi:Destroy()
+	end
+end
+
 local StartUI = Instance.new("ScreenGui")
 StartUI.Name = "StartUI"
 StartUI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
