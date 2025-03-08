@@ -2,6 +2,7 @@
 
 Join my Discord:  [https://discord.gg/smZKbHsBrh](https://discord.gg/smZKbHsBrh)
 
+
 Copy The Script:
 <pre>loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()</pre>
 
