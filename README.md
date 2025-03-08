@@ -1,7 +1,8 @@
 # Vortex Auto Build
 
 ### Join my Discord:  
-<pre>[PressAndVisiteMySite](https://discord.gg/smZKbHsBrh)</pre>
+<pre>[PressAndVisiteMySite](https://discord.gg/smZKbHsBrh)
+</pre>
 
 ### Copy The Script:
 <pre>loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()</pre>
