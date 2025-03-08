@@ -13,13 +13,5 @@ Falls du möchtest, dass der Code mit einem Button direkt kopierbar ist, kannst 
 </pre>
 <button onclick="copyCode()">Copy</button>
 
-<script>
-function copyCode() {
-    navigator.clipboard.writeText(document.getElementById("code").innerText);
-    alert("Code copied!");
-}
-</script>
-
-
 ![image](https://github.com/user-attachments/assets/9af0703c-8c3f-4dc4-9ca6-6b3f5ee9bd8c)
 
