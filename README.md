@@ -4,6 +4,9 @@
 <pre>[PressAndVisiteMySite](https://discord.gg/smZKbHsBrh)
 </pre>
 
+[![PressAndVisiteMySite](https://img.shields.io/badge/PressAndVisiteMySite-Click-blue)](https://discord.gg/smZKbHsBrh)
+
+
 ### Copy The Script:
 <pre>loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()</pre>
 
